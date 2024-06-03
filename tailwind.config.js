@@ -13,7 +13,7 @@ export default {
         2000: "2000ms",
       },
       backgroundImage: {
-        snowflake: "url('./snow-pattern.webp')"
+        snowflake: "url('../snow-pattern.webp')"
       },
       keyframes: {
         falling: {
