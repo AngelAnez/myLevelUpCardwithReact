@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.snowflake{
+    background: url('/snow-pattern.webp');
+    background-size: 60px;
+}

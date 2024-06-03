@@ -12,9 +12,6 @@ export default {
       transitionDuration: {
         2000: "2000ms",
       },
-      backgroundImage: {
-        snowflake: "url('../snow-pattern.webp')"
-      },
       keyframes: {
         falling: {
           '0%': { "background-position": "0% 0%" },
