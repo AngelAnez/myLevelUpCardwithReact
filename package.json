@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://angelanez.github.io/myLevelUpCardwithReact",
+  "homepage": "https://angelanez.github.io/myLevelUpCardwithReact/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
